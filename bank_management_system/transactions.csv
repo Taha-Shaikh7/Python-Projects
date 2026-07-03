@@ -1,0 +1,4 @@
+transaction_id,date,account_number,transaction_type,amount,balance_after,details
+6FA4BA5C,2026-06-29 17:04:43,1001,OPENING,10000.0,10000.0,Account opened
+2FB5D86C,2026-06-29 17:05:21,1001,WITHDRAWAL,100.0,9900.0,Cash withdrawal
+2C441DFC,2026-06-29 17:21:28,1002,OPENING,9000.0,9000.0,Account opened
