@@ -45,10 +45,12 @@ Create a new customer account.
 Automatically generates a unique account number.
 Supports Savings and Current account types.
 Stores customer information in CSV files.
+
 💰 Deposit Money
 Deposit money into any active account.
 Updates the account balance instantly.
 Saves the transaction history.
+
 💸 Withdraw Money
 Withdraw money from an account.
 Prevents withdrawal if there is insufficient balance.
